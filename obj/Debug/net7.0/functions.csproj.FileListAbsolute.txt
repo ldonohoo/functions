@@ -1,0 +1,14 @@
+/Users/lisa/Documents/code/csharp/functions/bin/Debug/net7.0/functions
+/Users/lisa/Documents/code/csharp/functions/bin/Debug/net7.0/functions.deps.json
+/Users/lisa/Documents/code/csharp/functions/bin/Debug/net7.0/functions.runtimeconfig.json
+/Users/lisa/Documents/code/csharp/functions/bin/Debug/net7.0/functions.dll
+/Users/lisa/Documents/code/csharp/functions/bin/Debug/net7.0/functions.pdb
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/functions.AssemblyInfoInputs.cache
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/functions.AssemblyInfo.cs
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/functions.csproj.CoreCompileInputs.cache
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/functions.dll
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/refint/functions.dll
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/functions.pdb
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/functions.genruntimeconfig.cache
+/Users/lisa/Documents/code/csharp/functions/obj/Debug/net7.0/ref/functions.dll
